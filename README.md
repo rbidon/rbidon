@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rbidon
-- 👀 I’m interested in ... Mixture of UX Design & Frontend Development  
+- 👋 Hi, I’m Rousse V. 
+- 👀 I’m interested in ... Mixture of Frontend Development  & UX Design
 - 🌱 I’m currently learning ... Web Devlopment 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Check out my twitter where I document my coding journey: https://twitter.com/roussevcodes
