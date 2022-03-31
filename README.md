@@ -5,6 +5,7 @@
 - 📫 How to reach me ... Check out my twitter where I document my coding journey: https://twitter.com/roussevcodes
 Let's connect on Linkedin: www.linkedin.com/in/roussebidon
 
+![<Twitter>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 
 
