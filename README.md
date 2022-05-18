@@ -14,11 +14,14 @@
 
 ## About Me
 - 👋 Hi, I’m Rousse V. 
-- 👀 I’m interested in ... Mixture of Frontend Development  & UX Design
+- 👀 I’m interested in ... World Domination with a little coding on the side!
 - 🌱 I’m currently  ...  perparing for coding bootcamp 
 <!-- - 💞️ I’m looking to collaborate on ... 
  -->
-## Technologies 
+## Languages and Tools: 
+
+<p align="center">
+  </p>
 
 ## My Stats
 
