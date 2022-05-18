@@ -1,14 +1,21 @@
+
+<p align="center">
+  <a href="https://twitter.com/roussevcodes" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-@roussevcodes-ea4aaa?style=for-the-badge&logo=Twitter&logoColor=white" style="color=white;"/></a>
+  <a href="https://www.linkedin.com/in/roussebidon/" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Rousse%20Bidon-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-roussebidon@gmail.com-ea4aaa?style=for-the-badge&logo=gmail&logoColor=white" style="color=white;"/></a>
+</p>
+
+
+## About Me
 - 👋 Hi, I’m Rousse V. 
 - 👀 I’m interested in ... Mixture of Frontend Development  & UX Design
 - 🌱 I’m currently learning ... Web Devlopment 
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... Check out my twitter where I document my coding journey: https://twitter.com/roussevcodes
-Let's connect on Linkedin: www.linkedin.com/in/roussebidon
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbidon&theme=dark)](https://git.io/streak-stats)
-[![Rousse's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbidon&show_icons=true)](https://github.com/rbidon/github-readme-stats)
-<!---
-rbidon/rbidon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technologies 
+
+## My Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbidon&theme=white&ring=pink&fire=pink&currStreakLabel=pink)](https://git.io/streak-stats)
 
