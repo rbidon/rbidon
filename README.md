@@ -11,13 +11,21 @@
 ## About Me
 - 👋 Hi, I’m Rousse V. 
 - 👀 I’m interested in ... Mixture of Frontend Development  & UX Design
-- 🌱 I’m currently learning ... Web Devlopment 
-- 💞️ I’m looking to collaborate on ... 
-
+- 🌱 I’m currently  ...  perparing for coding bootcamp 
+<!-- - 💞️ I’m looking to collaborate on ... 
+ -->
 ## Technologies 
 
 ## My Stats
 
-
+<!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbidon&theme=white&ring=fb6f92&fire=fb6f92&currStreakLabel=fb6f92)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbidon&title_color=fb6f92)](https://github.com/rbidon/github-readme-stats) -->
+
+<a href="https://github.com/rbidon/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbidon&title_color=fb6f92" />
+</a>
+<!-- <a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbidon&theme=white&ring=fb6f92&fire=fb6f92&currStreakLabel=fb6f92" />
+</a> -->
