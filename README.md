@@ -16,9 +16,10 @@
 
 
 ## About Me
-- 👋 Hi, I’m Rousse V. 
+- 👋 Hi, I’m Rousse, full-stack engineer 
 - 👀 I’m interested in ... World Domination with a little coding on the side!
 - 🌱 I’m currently  ...  perparing for coding bootcamp 
+- Want to know more about me? [Check out my portfolio.](https://roussevbidon.com/)
 <!-- - 💞️ I’m looking to collaborate on ... 
  -->
 ## Languages and Tools: 
