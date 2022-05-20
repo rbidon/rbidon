@@ -1,6 +1,9 @@
-[![Rousse's GitHub Banner](./assets/GitHubHeader.png)]([https://roussevbidon.com/])
+[![Rousse's GitHub Banner](./assets/GithubBanner.png)]([https://roussevbidon.com/])
+
+<br>
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&color=FB6F92&center=true&width=700&lines=Hi%2C+My+name+is+Rousse.;Full+Stack+Developer+in+training;Nature+lover"
+    <img src="http://typing-svg.herokuapp.com?size=35&color=FB6F92&center=true&width=700&lines=Hi%2C+My+name+is+Rousse.;Full+Stack+Developer;Nature+Lover"
 </p>
 
 <p align="center">
@@ -19,8 +22,10 @@
 <!-- - 💞️ I’m looking to collaborate on ... 
  -->
 ## Languages and Tools: 
-
 <p align="center">
+     <img alt="HTML" title="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img alt="Figma" title="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+    
   </p>
 
 ## My Stats
