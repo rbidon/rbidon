@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <img src="http://typing-svg.herokuapp.com?size=35&color=FB6F92&center=true&width=700&lines=Hi%2C+My+name+is+Rousse.;Full+Stack+Developer;Nature+Lover"
+    <img src="http://typing-svg.herokuapp.com?size=35&color=FB6F92&center=true&width=700&lines=Hi%2C+My+name+is+Rousse.;Full+Stack+Developer;Nature+Lover">
 </p>
 
 <p align="center">
