@@ -1,4 +1,4 @@
-[![Rousse's GitHub Banner](./assets/GithubBanner(1).png)](https://roussevbidon.com)
+[![Rousse's GitHub Banner](./assets/GithubBanner.png)](https://roussevbidon.com)
 
 <br>
 
