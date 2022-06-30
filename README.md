@@ -16,7 +16,6 @@
 
 
 ## About Me
-- 👋 Hi, I’m Rousse, Software Engineer
 - 👀 I’m interested in ...Designing & Building Accessible Applications!
 - 🌱 I’m currently  ...  in GA Software Engineering Immersive Program
 - Want to know more about me? [Check out my portfolio.](https://roussevbidon.com/)
