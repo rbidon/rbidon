@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-    <img src="http://typing-svg.herokuapp.com?size=35&color=FB6F92&center=true&vCenter=true&width=700&lines=Hi%2C+my+name+is+Rousse.;Software+Engineer;Nature+Lover"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Romans&weight=700&size=35&pause=1000&color=FB6F92&center=true&vCenter=true&width=435&lines=Hi!+My+name+is+Rousse;Software+Engineer;Nature+Lover"/>
 </p>
 <!-- Contact Link-->
 <p align="center">
