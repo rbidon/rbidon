@@ -20,7 +20,7 @@
 
 ## About Me
 - 👀 I’m interested in ...Designing & Building Accessible Applications!
-- 🌱 I’m currently  ...  in GA Software Engineering Immersive Program
+- 🌱 I’m currently  ... Applying to Entry Level Software Engineer  + Software Engineer Apprenticeship/Internship 
 - Want to know more about me? [Check out my portfolio.](https://roussevbidon.com/)
 <!-- - 💞️ I’m looking to collaborate on ... 
  -->
@@ -39,7 +39,10 @@
      <img alt="Node" title="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="React" title="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
      <img alt="Flask" title="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-<!--     <img alt="Flask" title="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img alt="TailwindCSS" title="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&MongoDB=white"/>
+<img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Express.js" title="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <!--      <img alt="Ember" title="Ember" src="https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37"/> -->
 <!--    <img alt=jQuery" title="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> -->
 <!--      <img alt="Markdown" title = "Markdown" = src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> -->
